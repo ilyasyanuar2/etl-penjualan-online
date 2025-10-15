@@ -1,0 +1,501 @@
+id_transaksi,tanggal_transaksi,id_produk,nama_produk,kategori,jumlah,harga_satuan,metode_pembayaran,kota_pelanggan
+1,2024-08-20,5,Tas Selempang Canvas,Fashion,4,180000,COD,Medan
+2,2024-04-22,2,Kaos Polos Unisex,Fashion,4,70000,COD,Bandung
+3,2024-08-17,3,Mouse Wireless,Elektronik,2,120000,Transfer Bank,Jakarta
+4,2024-07-15,2,Kaos Polos Unisex,Fashion,3,70000,Kartu Kredit,Bandung
+5,2024-02-22,2,Kaos Polos Unisex,Fashion,1,70000,COD,Surabaya
+6,2024-07-11,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Jakarta
+7,2024-05-22,5,Tas Selempang Canvas,Fashion,1,180000,COD,Surabaya
+8,2024-09-12,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,Kartu Kredit,Yogyakarta
+9,2024-02-08,1,Headphone Bluetooth,Elektronik,4,250000,E-Wallet,Bandung
+10,2024-09-16,3,Mouse Wireless,Elektronik,2,120000,E-Wallet,Yogyakarta
+11,2024-04-13,2,Kaos Polos Unisex,Fashion,5,70000,E-Wallet,Medan
+12,2024-05-17,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Kartu Kredit,Jakarta
+13,2024-05-12,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Surabaya
+14,2024-07-01,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Bandung
+15,2024-08-04,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Bandung
+16,2024-07-04,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Medan
+17,2024-05-19,3,Mouse Wireless,Elektronik,1,120000,COD,Jakarta
+18,2024-05-08,3,Mouse Wireless,Elektronik,1,120000,COD,Medan
+19,2024-09-23,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,E-Wallet,Yogyakarta
+20,2024-01-22,5,Tas Selempang Canvas,Fashion,3,180000,Transfer Bank,Yogyakarta
+21,2024-03-21,5,Tas Selempang Canvas,Fashion,4,180000,E-Wallet,Medan
+22,2024-01-21,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,Transfer Bank,Jakarta
+23,2024-01-31,5,Tas Selempang Canvas,Fashion,4,180000,E-Wallet,Yogyakarta
+24,2024-08-06,1,Headphone Bluetooth,Elektronik,1,250000,Kartu Kredit,Jakarta
+25,2024-09-10,3,Mouse Wireless,Elektronik,5,120000,COD,Jakarta
+26,2024-01-10,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Medan
+27,2024-05-15,2,Kaos Polos Unisex,Fashion,3,70000,Transfer Bank,Medan
+28,2024-05-16,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Jakarta
+29,2024-06-12,1,Headphone Bluetooth,Elektronik,4,250000,COD,Medan
+30,2024-07-20,2,Kaos Polos Unisex,Fashion,1,70000,E-Wallet,Bandung
+31,2024-01-23,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Kartu Kredit,Medan
+32,2024-05-11,1,Headphone Bluetooth,Elektronik,5,250000,COD,Jakarta
+33,2024-09-10,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Surabaya
+34,2024-03-01,1,Headphone Bluetooth,Elektronik,4,250000,Kartu Kredit,Jakarta
+35,2024-07-11,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,Transfer Bank,Surabaya
+36,2024-09-17,1,Headphone Bluetooth,Elektronik,1,250000,Kartu Kredit,Bandung
+37,2024-04-29,2,Kaos Polos Unisex,Fashion,1,70000,Transfer Bank,Medan
+38,2024-08-01,5,Tas Selempang Canvas,Fashion,4,180000,COD,Jakarta
+39,2024-05-11,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Bandung
+40,2024-09-23,5,Tas Selempang Canvas,Fashion,2,180000,Kartu Kredit,Surabaya
+41,2024-06-26,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,COD,Jakarta
+42,2024-04-24,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Jakarta
+43,2024-06-16,2,Kaos Polos Unisex,Fashion,1,70000,COD,Yogyakarta
+44,2024-06-18,2,Kaos Polos Unisex,Fashion,3,70000,COD,Bandung
+45,2024-03-03,5,Tas Selempang Canvas,Fashion,1,180000,E-Wallet,Yogyakarta
+46,2024-05-30,2,Kaos Polos Unisex,Fashion,1,70000,COD,Jakarta
+47,2024-01-13,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Surabaya
+48,2024-04-14,5,Tas Selempang Canvas,Fashion,1,180000,E-Wallet,Jakarta
+49,2024-06-04,1,Headphone Bluetooth,Elektronik,4,250000,E-Wallet,Medan
+50,2024-09-16,5,Tas Selempang Canvas,Fashion,5,180000,COD,Bandung
+51,2024-06-20,2,Kaos Polos Unisex,Fashion,5,70000,E-Wallet,Medan
+52,2024-09-10,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Yogyakarta
+53,2024-04-30,3,Mouse Wireless,Elektronik,3,120000,Kartu Kredit,Bandung
+54,2024-05-24,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,COD,Jakarta
+55,2024-02-28,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Surabaya
+56,2024-05-17,2,Kaos Polos Unisex,Fashion,2,70000,COD,Yogyakarta
+57,2024-01-07,1,Headphone Bluetooth,Elektronik,4,250000,E-Wallet,Surabaya
+58,2024-02-15,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Jakarta
+59,2024-09-05,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Jakarta
+60,2024-07-09,5,Tas Selempang Canvas,Fashion,1,180000,Kartu Kredit,Medan
+61,2024-02-04,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Medan
+62,2024-02-09,1,Headphone Bluetooth,Elektronik,5,250000,Transfer Bank,Jakarta
+63,2024-01-07,1,Headphone Bluetooth,Elektronik,5,250000,E-Wallet,Jakarta
+64,2024-06-09,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,E-Wallet,Medan
+65,2024-03-01,3,Mouse Wireless,Elektronik,5,120000,COD,Bandung
+66,2024-02-20,3,Mouse Wireless,Elektronik,2,120000,Transfer Bank,Surabaya
+67,2024-01-15,2,Kaos Polos Unisex,Fashion,4,70000,E-Wallet,Jakarta
+68,2024-02-12,1,Headphone Bluetooth,Elektronik,2,250000,E-Wallet,Jakarta
+69,2024-09-23,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,Kartu Kredit,Bandung
+70,2024-04-09,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,E-Wallet,Bandung
+71,2024-03-25,1,Headphone Bluetooth,Elektronik,5,250000,COD,Surabaya
+72,2024-09-26,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Transfer Bank,Jakarta
+73,2024-09-22,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,E-Wallet,Bandung
+74,2024-04-24,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Yogyakarta
+75,2024-02-08,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,COD,Jakarta
+76,2024-05-26,3,Mouse Wireless,Elektronik,1,120000,COD,Surabaya
+77,2024-08-13,3,Mouse Wireless,Elektronik,2,120000,E-Wallet,Yogyakarta
+78,2024-01-09,3,Mouse Wireless,Elektronik,4,120000,COD,Medan
+79,2024-08-30,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Kartu Kredit,Yogyakarta
+80,2024-06-12,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Medan
+81,2024-01-17,1,Headphone Bluetooth,Elektronik,2,250000,COD,Yogyakarta
+82,2024-02-18,2,Kaos Polos Unisex,Fashion,2,70000,COD,Bandung
+83,2024-07-13,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Bandung
+84,2024-06-29,1,Headphone Bluetooth,Elektronik,1,250000,COD,Surabaya
+85,2024-02-02,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Medan
+86,2024-04-28,5,Tas Selempang Canvas,Fashion,4,180000,Transfer Bank,Bandung
+87,2024-01-05,5,Tas Selempang Canvas,Fashion,2,180000,Kartu Kredit,Surabaya
+88,2024-09-26,5,Tas Selempang Canvas,Fashion,5,180000,Kartu Kredit,Yogyakarta
+89,2024-05-21,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Medan
+90,2024-02-12,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Medan
+91,2024-09-04,1,Headphone Bluetooth,Elektronik,3,250000,Transfer Bank,Yogyakarta
+92,2024-04-05,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Medan
+93,2024-07-23,3,Mouse Wireless,Elektronik,5,120000,Transfer Bank,Surabaya
+94,2024-04-15,5,Tas Selempang Canvas,Fashion,5,180000,Kartu Kredit,Medan
+95,2024-09-25,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Bandung
+96,2024-02-04,5,Tas Selempang Canvas,Fashion,3,180000,Kartu Kredit,Yogyakarta
+97,2024-06-07,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Jakarta
+98,2024-06-08,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Jakarta
+99,2024-01-15,3,Mouse Wireless,Elektronik,4,120000,Transfer Bank,Jakarta
+100,2024-02-26,5,Tas Selempang Canvas,Fashion,5,180000,COD,Yogyakarta
+101,2024-04-17,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Jakarta
+102,2024-01-01,2,Kaos Polos Unisex,Fashion,3,70000,Transfer Bank,Bandung
+103,2024-03-06,5,Tas Selempang Canvas,Fashion,3,180000,Kartu Kredit,Jakarta
+104,2024-01-24,2,Kaos Polos Unisex,Fashion,5,70000,E-Wallet,Bandung
+105,2024-06-04,1,Headphone Bluetooth,Elektronik,1,250000,COD,Bandung
+106,2024-07-03,5,Tas Selempang Canvas,Fashion,1,180000,Transfer Bank,Yogyakarta
+107,2024-06-29,5,Tas Selempang Canvas,Fashion,1,180000,COD,Medan
+108,2024-05-12,3,Mouse Wireless,Elektronik,3,120000,Transfer Bank,Jakarta
+109,2024-01-25,2,Kaos Polos Unisex,Fashion,1,70000,Transfer Bank,Yogyakarta
+110,2024-07-29,1,Headphone Bluetooth,Elektronik,1,250000,COD,Medan
+111,2024-02-19,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Bandung
+112,2024-04-20,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Bandung
+113,2024-03-06,3,Mouse Wireless,Elektronik,3,120000,E-Wallet,Jakarta
+114,2024-03-10,2,Kaos Polos Unisex,Fashion,1,70000,Transfer Bank,Jakarta
+115,2024-01-02,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Surabaya
+116,2024-07-07,5,Tas Selempang Canvas,Fashion,3,180000,COD,Surabaya
+117,2024-02-06,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Surabaya
+118,2024-07-11,2,Kaos Polos Unisex,Fashion,3,70000,E-Wallet,Yogyakarta
+119,2024-09-08,3,Mouse Wireless,Elektronik,2,120000,COD,Bandung
+120,2024-03-31,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Bandung
+121,2024-01-29,1,Headphone Bluetooth,Elektronik,3,250000,COD,Surabaya
+122,2024-06-23,2,Kaos Polos Unisex,Fashion,3,70000,COD,Jakarta
+123,2024-05-26,1,Headphone Bluetooth,Elektronik,3,250000,Kartu Kredit,Surabaya
+124,2024-09-05,2,Kaos Polos Unisex,Fashion,3,70000,E-Wallet,Yogyakarta
+125,2024-05-19,3,Mouse Wireless,Elektronik,4,120000,E-Wallet,Bandung
+126,2024-02-02,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Bandung
+127,2024-04-09,5,Tas Selempang Canvas,Fashion,2,180000,Kartu Kredit,Jakarta
+128,2024-07-24,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Jakarta
+129,2024-08-21,2,Kaos Polos Unisex,Fashion,3,70000,E-Wallet,Jakarta
+130,2024-07-20,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Bandung
+131,2024-02-15,1,Headphone Bluetooth,Elektronik,2,250000,Transfer Bank,Surabaya
+132,2024-05-30,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Surabaya
+133,2024-07-15,3,Mouse Wireless,Elektronik,1,120000,COD,Medan
+134,2024-07-16,3,Mouse Wireless,Elektronik,1,120000,COD,Bandung
+135,2024-02-05,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,E-Wallet,Surabaya
+136,2024-05-04,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Transfer Bank,Bandung
+137,2024-08-01,5,Tas Selempang Canvas,Fashion,1,180000,E-Wallet,Jakarta
+138,2024-03-28,3,Mouse Wireless,Elektronik,1,120000,Transfer Bank,Surabaya
+139,2024-05-27,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,COD,Surabaya
+140,2024-07-05,3,Mouse Wireless,Elektronik,3,120000,COD,Surabaya
+141,2024-01-17,3,Mouse Wireless,Elektronik,4,120000,COD,Bandung
+142,2024-06-09,5,Tas Selempang Canvas,Fashion,5,180000,COD,Bandung
+143,2024-09-02,1,Headphone Bluetooth,Elektronik,3,250000,Transfer Bank,Medan
+144,2024-02-17,2,Kaos Polos Unisex,Fashion,1,70000,E-Wallet,Yogyakarta
+145,2024-06-20,5,Tas Selempang Canvas,Fashion,4,180000,Transfer Bank,Jakarta
+146,2024-02-03,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Kartu Kredit,Surabaya
+147,2024-02-08,1,Headphone Bluetooth,Elektronik,4,250000,Kartu Kredit,Jakarta
+148,2024-02-05,2,Kaos Polos Unisex,Fashion,3,70000,Kartu Kredit,Bandung
+149,2024-06-20,5,Tas Selempang Canvas,Fashion,2,180000,E-Wallet,Surabaya
+150,2024-08-04,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Surabaya
+151,2024-09-06,3,Mouse Wireless,Elektronik,2,120000,COD,Bandung
+152,2024-01-23,2,Kaos Polos Unisex,Fashion,1,70000,Transfer Bank,Medan
+153,2024-08-27,3,Mouse Wireless,Elektronik,2,120000,Kartu Kredit,Surabaya
+154,2024-05-28,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Yogyakarta
+155,2024-04-20,5,Tas Selempang Canvas,Fashion,4,180000,Kartu Kredit,Medan
+156,2024-09-17,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Medan
+157,2024-06-16,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Surabaya
+158,2024-04-27,2,Kaos Polos Unisex,Fashion,3,70000,COD,Jakarta
+159,2024-05-22,5,Tas Selempang Canvas,Fashion,1,180000,Kartu Kredit,Medan
+160,2024-03-16,2,Kaos Polos Unisex,Fashion,1,70000,E-Wallet,Yogyakarta
+161,2024-04-23,2,Kaos Polos Unisex,Fashion,5,70000,E-Wallet,Bandung
+162,2024-01-11,1,Headphone Bluetooth,Elektronik,2,250000,Transfer Bank,Medan
+163,2024-05-10,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,COD,Bandung
+164,2024-04-09,2,Kaos Polos Unisex,Fashion,1,70000,Kartu Kredit,Jakarta
+165,2024-03-18,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Surabaya
+166,2024-08-22,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Bandung
+167,2024-05-24,1,Headphone Bluetooth,Elektronik,3,250000,COD,Medan
+168,2024-03-17,2,Kaos Polos Unisex,Fashion,1,70000,COD,Yogyakarta
+169,2024-07-21,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Surabaya
+170,2024-04-14,2,Kaos Polos Unisex,Fashion,1,70000,E-Wallet,Surabaya
+171,2024-07-29,3,Mouse Wireless,Elektronik,4,120000,COD,Bandung
+172,2024-01-15,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Bandung
+173,2024-07-01,5,Tas Selempang Canvas,Fashion,1,180000,COD,Bandung
+174,2024-08-30,5,Tas Selempang Canvas,Fashion,4,180000,Transfer Bank,Medan
+175,2024-01-30,5,Tas Selempang Canvas,Fashion,3,180000,COD,Surabaya
+176,2024-04-07,2,Kaos Polos Unisex,Fashion,1,70000,Kartu Kredit,Yogyakarta
+177,2024-09-03,2,Kaos Polos Unisex,Fashion,1,70000,COD,Surabaya
+178,2024-03-15,3,Mouse Wireless,Elektronik,1,120000,Transfer Bank,Medan
+179,2024-03-29,1,Headphone Bluetooth,Elektronik,2,250000,E-Wallet,Jakarta
+180,2024-04-15,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Yogyakarta
+181,2024-06-25,2,Kaos Polos Unisex,Fashion,3,70000,E-Wallet,Bandung
+182,2024-08-05,2,Kaos Polos Unisex,Fashion,4,70000,COD,Yogyakarta
+183,2024-03-15,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Jakarta
+184,2024-09-01,1,Headphone Bluetooth,Elektronik,4,250000,COD,Bandung
+185,2024-09-16,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Transfer Bank,Bandung
+186,2024-05-03,3,Mouse Wireless,Elektronik,1,120000,COD,Bandung
+187,2024-05-09,2,Kaos Polos Unisex,Fashion,4,70000,COD,Surabaya
+188,2024-07-28,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Jakarta
+189,2024-09-20,2,Kaos Polos Unisex,Fashion,1,70000,Transfer Bank,Yogyakarta
+190,2024-06-29,5,Tas Selempang Canvas,Fashion,1,180000,COD,Jakarta
+191,2024-01-21,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Yogyakarta
+192,2024-09-23,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,E-Wallet,Medan
+193,2024-08-24,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Medan
+194,2024-08-08,1,Headphone Bluetooth,Elektronik,1,250000,Kartu Kredit,Surabaya
+195,2024-01-21,5,Tas Selempang Canvas,Fashion,2,180000,COD,Surabaya
+196,2024-06-16,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Bandung
+197,2024-03-12,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Yogyakarta
+198,2024-05-02,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Bandung
+199,2024-01-23,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,COD,Surabaya
+200,2024-01-22,3,Mouse Wireless,Elektronik,4,120000,Transfer Bank,Surabaya
+201,2024-01-20,5,Tas Selempang Canvas,Fashion,1,180000,COD,Medan
+202,2024-09-11,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Medan
+203,2024-04-02,2,Kaos Polos Unisex,Fashion,4,70000,COD,Yogyakarta
+204,2024-09-15,3,Mouse Wireless,Elektronik,2,120000,E-Wallet,Yogyakarta
+205,2024-02-18,2,Kaos Polos Unisex,Fashion,3,70000,Kartu Kredit,Jakarta
+206,2024-07-09,2,Kaos Polos Unisex,Fashion,3,70000,COD,Yogyakarta
+207,2024-07-07,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Kartu Kredit,Medan
+208,2024-07-17,2,Kaos Polos Unisex,Fashion,3,70000,E-Wallet,Medan
+209,2024-04-21,5,Tas Selempang Canvas,Fashion,4,180000,E-Wallet,Yogyakarta
+210,2024-09-25,1,Headphone Bluetooth,Elektronik,2,250000,E-Wallet,Yogyakarta
+211,2024-09-11,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Bandung
+212,2024-04-13,3,Mouse Wireless,Elektronik,1,120000,Transfer Bank,Medan
+213,2024-06-23,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Surabaya
+214,2024-06-18,1,Headphone Bluetooth,Elektronik,2,250000,Transfer Bank,Bandung
+215,2024-09-13,3,Mouse Wireless,Elektronik,3,120000,Transfer Bank,Yogyakarta
+216,2024-07-18,5,Tas Selempang Canvas,Fashion,5,180000,Transfer Bank,Surabaya
+217,2024-06-03,5,Tas Selempang Canvas,Fashion,3,180000,COD,Yogyakarta
+218,2024-06-25,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,Kartu Kredit,Surabaya
+219,2024-09-15,1,Headphone Bluetooth,Elektronik,2,250000,COD,Yogyakarta
+220,2024-01-12,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Medan
+221,2024-04-29,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Yogyakarta
+222,2024-06-26,5,Tas Selempang Canvas,Fashion,3,180000,Kartu Kredit,Jakarta
+223,2024-05-21,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Yogyakarta
+224,2024-02-09,1,Headphone Bluetooth,Elektronik,5,250000,Transfer Bank,Bandung
+225,2024-05-20,3,Mouse Wireless,Elektronik,1,120000,Transfer Bank,Yogyakarta
+226,2024-01-24,1,Headphone Bluetooth,Elektronik,4,250000,COD,Bandung
+227,2024-09-16,3,Mouse Wireless,Elektronik,3,120000,COD,Jakarta
+228,2024-03-12,3,Mouse Wireless,Elektronik,2,120000,Kartu Kredit,Bandung
+229,2024-08-04,1,Headphone Bluetooth,Elektronik,3,250000,COD,Jakarta
+230,2024-05-12,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Bandung
+231,2024-03-10,2,Kaos Polos Unisex,Fashion,4,70000,COD,Jakarta
+232,2024-06-30,1,Headphone Bluetooth,Elektronik,5,250000,E-Wallet,Medan
+233,2024-04-22,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Medan
+234,2024-08-27,2,Kaos Polos Unisex,Fashion,1,70000,E-Wallet,Medan
+235,2024-04-04,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,E-Wallet,Jakarta
+236,2024-03-23,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,Transfer Bank,Medan
+237,2024-07-31,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Bandung
+238,2024-07-31,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Surabaya
+239,2024-07-21,2,Kaos Polos Unisex,Fashion,5,70000,Kartu Kredit,Jakarta
+240,2024-08-30,5,Tas Selempang Canvas,Fashion,5,180000,Transfer Bank,Bandung
+241,2024-06-27,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,COD,Yogyakarta
+242,2024-07-24,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Surabaya
+243,2024-09-02,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Surabaya
+244,2024-02-23,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Jakarta
+245,2024-04-11,5,Tas Selempang Canvas,Fashion,3,180000,E-Wallet,Surabaya
+246,2024-01-27,3,Mouse Wireless,Elektronik,1,120000,COD,Surabaya
+247,2024-09-25,5,Tas Selempang Canvas,Fashion,1,180000,COD,Yogyakarta
+248,2024-06-01,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Medan
+249,2024-05-15,3,Mouse Wireless,Elektronik,2,120000,COD,Bandung
+250,2024-03-13,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,E-Wallet,Jakarta
+251,2024-07-26,5,Tas Selempang Canvas,Fashion,1,180000,Transfer Bank,Bandung
+252,2024-04-08,5,Tas Selempang Canvas,Fashion,1,180000,Kartu Kredit,Yogyakarta
+253,2024-04-17,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Surabaya
+254,2024-02-14,5,Tas Selempang Canvas,Fashion,5,180000,Kartu Kredit,Bandung
+255,2024-01-13,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Yogyakarta
+256,2024-04-14,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Bandung
+257,2024-01-08,2,Kaos Polos Unisex,Fashion,4,70000,Kartu Kredit,Jakarta
+258,2024-06-19,2,Kaos Polos Unisex,Fashion,1,70000,Transfer Bank,Yogyakarta
+259,2024-03-04,2,Kaos Polos Unisex,Fashion,5,70000,COD,Jakarta
+260,2024-02-13,2,Kaos Polos Unisex,Fashion,4,70000,Kartu Kredit,Surabaya
+261,2024-08-31,5,Tas Selempang Canvas,Fashion,5,180000,Transfer Bank,Surabaya
+262,2024-07-28,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Jakarta
+263,2024-02-24,1,Headphone Bluetooth,Elektronik,2,250000,E-Wallet,Surabaya
+264,2024-09-22,3,Mouse Wireless,Elektronik,3,120000,COD,Bandung
+265,2024-07-25,1,Headphone Bluetooth,Elektronik,1,250000,COD,Surabaya
+266,2024-05-03,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Surabaya
+267,2024-06-19,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Medan
+268,2024-03-08,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Kartu Kredit,Jakarta
+269,2024-09-12,5,Tas Selempang Canvas,Fashion,1,180000,Transfer Bank,Bandung
+270,2024-01-11,3,Mouse Wireless,Elektronik,4,120000,COD,Jakarta
+271,2024-08-02,5,Tas Selempang Canvas,Fashion,1,180000,E-Wallet,Surabaya
+272,2024-04-04,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,E-Wallet,Yogyakarta
+273,2024-04-14,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Surabaya
+274,2024-06-22,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,COD,Bandung
+275,2024-05-22,3,Mouse Wireless,Elektronik,3,120000,Kartu Kredit,Jakarta
+276,2024-03-07,1,Headphone Bluetooth,Elektronik,4,250000,COD,Yogyakarta
+277,2024-02-09,5,Tas Selempang Canvas,Fashion,1,180000,Kartu Kredit,Jakarta
+278,2024-05-28,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,E-Wallet,Medan
+279,2024-03-09,5,Tas Selempang Canvas,Fashion,4,180000,Kartu Kredit,Bandung
+280,2024-06-18,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Medan
+281,2024-08-23,3,Mouse Wireless,Elektronik,4,120000,COD,Surabaya
+282,2024-08-11,1,Headphone Bluetooth,Elektronik,5,250000,COD,Surabaya
+283,2024-02-17,2,Kaos Polos Unisex,Fashion,2,70000,COD,Bandung
+284,2024-01-07,2,Kaos Polos Unisex,Fashion,3,70000,COD,Bandung
+285,2024-04-06,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Surabaya
+286,2024-05-24,3,Mouse Wireless,Elektronik,2,120000,COD,Surabaya
+287,2024-06-16,3,Mouse Wireless,Elektronik,3,120000,Kartu Kredit,Jakarta
+288,2024-04-18,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Kartu Kredit,Bandung
+289,2024-09-27,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,COD,Bandung
+290,2024-06-04,2,Kaos Polos Unisex,Fashion,1,70000,COD,Yogyakarta
+291,2024-05-16,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Jakarta
+292,2024-03-30,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Yogyakarta
+293,2024-04-29,1,Headphone Bluetooth,Elektronik,4,250000,E-Wallet,Bandung
+294,2024-01-25,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Jakarta
+295,2024-01-31,3,Mouse Wireless,Elektronik,2,120000,E-Wallet,Bandung
+296,2024-07-18,5,Tas Selempang Canvas,Fashion,3,180000,COD,Yogyakarta
+297,2024-06-17,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Medan
+298,2024-05-30,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,COD,Surabaya
+299,2024-05-23,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Transfer Bank,Medan
+300,2024-05-06,2,Kaos Polos Unisex,Fashion,5,70000,Kartu Kredit,Surabaya
+301,2024-06-10,5,Tas Selempang Canvas,Fashion,5,180000,COD,Yogyakarta
+302,2024-09-09,2,Kaos Polos Unisex,Fashion,4,70000,COD,Yogyakarta
+303,2024-02-04,1,Headphone Bluetooth,Elektronik,2,250000,COD,Surabaya
+304,2024-07-07,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Yogyakarta
+305,2024-05-03,3,Mouse Wireless,Elektronik,2,120000,COD,Jakarta
+306,2024-06-14,2,Kaos Polos Unisex,Fashion,1,70000,Kartu Kredit,Surabaya
+307,2024-06-07,3,Mouse Wireless,Elektronik,4,120000,Transfer Bank,Yogyakarta
+308,2024-08-21,2,Kaos Polos Unisex,Fashion,1,70000,Kartu Kredit,Surabaya
+309,2024-05-24,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Medan
+310,2024-04-14,1,Headphone Bluetooth,Elektronik,3,250000,Kartu Kredit,Jakarta
+311,2024-08-31,2,Kaos Polos Unisex,Fashion,3,70000,E-Wallet,Jakarta
+312,2024-02-14,5,Tas Selempang Canvas,Fashion,3,180000,E-Wallet,Yogyakarta
+313,2024-07-02,2,Kaos Polos Unisex,Fashion,3,70000,COD,Bandung
+314,2024-01-10,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Medan
+315,2024-04-30,1,Headphone Bluetooth,Elektronik,5,250000,COD,Jakarta
+316,2024-09-19,5,Tas Selempang Canvas,Fashion,3,180000,Kartu Kredit,Medan
+317,2024-04-02,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Medan
+318,2024-06-06,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,COD,Surabaya
+319,2024-05-13,3,Mouse Wireless,Elektronik,3,120000,Kartu Kredit,Bandung
+320,2024-07-28,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Bandung
+321,2024-04-25,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Yogyakarta
+322,2024-04-04,3,Mouse Wireless,Elektronik,5,120000,Transfer Bank,Yogyakarta
+323,2024-08-16,5,Tas Selempang Canvas,Fashion,5,180000,Transfer Bank,Jakarta
+324,2024-06-22,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Jakarta
+325,2024-03-20,5,Tas Selempang Canvas,Fashion,4,180000,Transfer Bank,Surabaya
+326,2024-03-27,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Yogyakarta
+327,2024-03-12,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Yogyakarta
+328,2024-08-26,3,Mouse Wireless,Elektronik,3,120000,Transfer Bank,Yogyakarta
+329,2024-04-28,3,Mouse Wireless,Elektronik,1,120000,Transfer Bank,Bandung
+330,2024-09-08,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Bandung
+331,2024-07-19,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Jakarta
+332,2024-08-21,5,Tas Selempang Canvas,Fashion,1,180000,Transfer Bank,Medan
+333,2024-08-08,5,Tas Selempang Canvas,Fashion,2,180000,E-Wallet,Jakarta
+334,2024-03-17,2,Kaos Polos Unisex,Fashion,1,70000,Kartu Kredit,Jakarta
+335,2024-09-02,5,Tas Selempang Canvas,Fashion,2,180000,E-Wallet,Jakarta
+336,2024-04-19,1,Headphone Bluetooth,Elektronik,2,250000,E-Wallet,Medan
+337,2024-05-09,3,Mouse Wireless,Elektronik,3,120000,Transfer Bank,Yogyakarta
+338,2024-05-20,5,Tas Selempang Canvas,Fashion,4,180000,Kartu Kredit,Surabaya
+339,2024-01-14,3,Mouse Wireless,Elektronik,1,120000,Transfer Bank,Medan
+340,2024-05-25,2,Kaos Polos Unisex,Fashion,5,70000,COD,Yogyakarta
+341,2024-01-28,1,Headphone Bluetooth,Elektronik,2,250000,COD,Medan
+342,2024-05-10,3,Mouse Wireless,Elektronik,3,120000,Transfer Bank,Jakarta
+343,2024-03-14,5,Tas Selempang Canvas,Fashion,4,180000,COD,Bandung
+344,2024-08-31,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Bandung
+345,2024-08-27,5,Tas Selempang Canvas,Fashion,3,180000,COD,Yogyakarta
+346,2024-07-27,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Yogyakarta
+347,2024-05-12,5,Tas Selempang Canvas,Fashion,3,180000,COD,Jakarta
+348,2024-07-13,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Kartu Kredit,Jakarta
+349,2024-07-20,2,Kaos Polos Unisex,Fashion,5,70000,Kartu Kredit,Jakarta
+350,2024-09-13,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,COD,Medan
+351,2024-07-02,3,Mouse Wireless,Elektronik,5,120000,E-Wallet,Yogyakarta
+352,2024-05-03,1,Headphone Bluetooth,Elektronik,2,250000,Transfer Bank,Bandung
+353,2024-03-20,5,Tas Selempang Canvas,Fashion,1,180000,Transfer Bank,Yogyakarta
+354,2024-04-08,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,E-Wallet,Jakarta
+355,2024-07-30,1,Headphone Bluetooth,Elektronik,1,250000,COD,Bandung
+356,2024-08-09,5,Tas Selempang Canvas,Fashion,4,180000,E-Wallet,Jakarta
+357,2024-05-02,1,Headphone Bluetooth,Elektronik,5,250000,COD,Bandung
+358,2024-03-11,3,Mouse Wireless,Elektronik,3,120000,COD,Surabaya
+359,2024-03-06,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,E-Wallet,Jakarta
+360,2024-01-15,3,Mouse Wireless,Elektronik,5,120000,E-Wallet,Yogyakarta
+361,2024-01-07,1,Headphone Bluetooth,Elektronik,3,250000,COD,Jakarta
+362,2024-02-13,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,Transfer Bank,Yogyakarta
+363,2024-02-19,3,Mouse Wireless,Elektronik,3,120000,E-Wallet,Bandung
+364,2024-07-08,3,Mouse Wireless,Elektronik,1,120000,Kartu Kredit,Medan
+365,2024-04-17,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Medan
+366,2024-06-17,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Transfer Bank,Medan
+367,2024-08-28,3,Mouse Wireless,Elektronik,2,120000,COD,Yogyakarta
+368,2024-05-29,2,Kaos Polos Unisex,Fashion,2,70000,COD,Jakarta
+369,2024-05-27,3,Mouse Wireless,Elektronik,2,120000,Transfer Bank,Medan
+370,2024-08-27,1,Headphone Bluetooth,Elektronik,2,250000,Kartu Kredit,Jakarta
+371,2024-07-28,2,Kaos Polos Unisex,Fashion,4,70000,COD,Bandung
+372,2024-08-13,5,Tas Selempang Canvas,Fashion,3,180000,COD,Bandung
+373,2024-02-16,5,Tas Selempang Canvas,Fashion,3,180000,COD,Medan
+374,2024-08-18,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Jakarta
+375,2024-08-31,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,Transfer Bank,Bandung
+376,2024-02-13,5,Tas Selempang Canvas,Fashion,4,180000,Kartu Kredit,Medan
+377,2024-03-27,2,Kaos Polos Unisex,Fashion,3,70000,Transfer Bank,Surabaya
+378,2024-01-14,3,Mouse Wireless,Elektronik,2,120000,COD,Yogyakarta
+379,2024-09-10,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Transfer Bank,Yogyakarta
+380,2024-03-04,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Medan
+381,2024-04-21,5,Tas Selempang Canvas,Fashion,4,180000,E-Wallet,Jakarta
+382,2024-07-29,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Medan
+383,2024-08-10,2,Kaos Polos Unisex,Fashion,5,70000,COD,Jakarta
+384,2024-05-22,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Kartu Kredit,Yogyakarta
+385,2024-04-18,5,Tas Selempang Canvas,Fashion,3,180000,COD,Jakarta
+386,2024-02-14,3,Mouse Wireless,Elektronik,5,120000,E-Wallet,Jakarta
+387,2024-09-07,2,Kaos Polos Unisex,Fashion,1,70000,COD,Medan
+388,2024-05-11,1,Headphone Bluetooth,Elektronik,1,250000,COD,Yogyakarta
+389,2024-04-28,3,Mouse Wireless,Elektronik,5,120000,COD,Bandung
+390,2024-05-07,3,Mouse Wireless,Elektronik,2,120000,Kartu Kredit,Bandung
+391,2024-05-18,5,Tas Selempang Canvas,Fashion,3,180000,Transfer Bank,Jakarta
+392,2024-02-21,3,Mouse Wireless,Elektronik,4,120000,E-Wallet,Surabaya
+393,2024-04-28,2,Kaos Polos Unisex,Fashion,2,70000,E-Wallet,Yogyakarta
+394,2024-05-14,5,Tas Selempang Canvas,Fashion,5,180000,Transfer Bank,Yogyakarta
+395,2024-04-13,1,Headphone Bluetooth,Elektronik,4,250000,Kartu Kredit,Medan
+396,2024-09-24,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,E-Wallet,Jakarta
+397,2024-06-04,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Surabaya
+398,2024-05-14,5,Tas Selempang Canvas,Fashion,5,180000,Kartu Kredit,Bandung
+399,2024-03-29,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Bandung
+400,2024-05-24,5,Tas Selempang Canvas,Fashion,3,180000,COD,Jakarta
+401,2024-02-13,3,Mouse Wireless,Elektronik,2,120000,E-Wallet,Bandung
+402,2024-03-14,1,Headphone Bluetooth,Elektronik,1,250000,COD,Medan
+403,2024-02-01,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,COD,Surabaya
+404,2024-08-25,5,Tas Selempang Canvas,Fashion,2,180000,COD,Jakarta
+405,2024-03-12,5,Tas Selempang Canvas,Fashion,1,180000,COD,Surabaya
+406,2024-08-24,3,Mouse Wireless,Elektronik,5,120000,COD,Yogyakarta
+407,2024-02-18,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Bandung
+408,2024-04-19,2,Kaos Polos Unisex,Fashion,5,70000,E-Wallet,Bandung
+409,2024-03-03,5,Tas Selempang Canvas,Fashion,5,180000,Transfer Bank,Medan
+410,2024-04-06,2,Kaos Polos Unisex,Fashion,4,70000,COD,Jakarta
+411,2024-06-02,3,Mouse Wireless,Elektronik,4,120000,E-Wallet,Surabaya
+412,2024-08-19,3,Mouse Wireless,Elektronik,2,120000,Transfer Bank,Yogyakarta
+413,2024-07-17,3,Mouse Wireless,Elektronik,2,120000,COD,Jakarta
+414,2024-03-18,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,COD,Jakarta
+415,2024-06-21,5,Tas Selempang Canvas,Fashion,5,180000,E-Wallet,Surabaya
+416,2024-05-05,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Bandung
+417,2024-03-12,2,Kaos Polos Unisex,Fashion,3,70000,Kartu Kredit,Yogyakarta
+418,2024-06-14,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Jakarta
+419,2024-05-25,1,Headphone Bluetooth,Elektronik,4,250000,Transfer Bank,Yogyakarta
+420,2024-05-21,5,Tas Selempang Canvas,Fashion,2,180000,E-Wallet,Medan
+421,2024-07-16,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Jakarta
+422,2024-05-29,1,Headphone Bluetooth,Elektronik,5,250000,Transfer Bank,Yogyakarta
+423,2024-09-20,3,Mouse Wireless,Elektronik,4,120000,Kartu Kredit,Surabaya
+424,2024-01-21,4,Botol Minum 1L,Perlengkapan Rumah,5,45000,Transfer Bank,Medan
+425,2024-06-20,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Yogyakarta
+426,2024-07-21,1,Headphone Bluetooth,Elektronik,4,250000,COD,Bandung
+427,2024-06-04,2,Kaos Polos Unisex,Fashion,5,70000,Kartu Kredit,Surabaya
+428,2024-04-18,1,Headphone Bluetooth,Elektronik,1,250000,Transfer Bank,Yogyakarta
+429,2024-08-06,5,Tas Selempang Canvas,Fashion,3,180000,Transfer Bank,Surabaya
+430,2024-01-19,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,E-Wallet,Surabaya
+431,2024-06-26,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,COD,Jakarta
+432,2024-06-10,3,Mouse Wireless,Elektronik,1,120000,COD,Jakarta
+433,2024-04-29,1,Headphone Bluetooth,Elektronik,4,250000,COD,Jakarta
+434,2024-01-21,1,Headphone Bluetooth,Elektronik,1,250000,COD,Medan
+435,2024-08-22,2,Kaos Polos Unisex,Fashion,1,70000,Kartu Kredit,Yogyakarta
+436,2024-02-02,5,Tas Selempang Canvas,Fashion,5,180000,Kartu Kredit,Jakarta
+437,2024-08-06,3,Mouse Wireless,Elektronik,5,120000,E-Wallet,Yogyakarta
+438,2024-02-15,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,Transfer Bank,Bandung
+439,2024-08-08,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,Kartu Kredit,Medan
+440,2024-06-19,5,Tas Selempang Canvas,Fashion,3,180000,Transfer Bank,Surabaya
+441,2024-01-25,4,Botol Minum 1L,Perlengkapan Rumah,3,45000,COD,Bandung
+442,2024-06-29,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Transfer Bank,Yogyakarta
+443,2024-03-27,2,Kaos Polos Unisex,Fashion,2,70000,COD,Jakarta
+444,2024-09-05,2,Kaos Polos Unisex,Fashion,3,70000,COD,Medan
+445,2024-02-21,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Jakarta
+446,2024-03-18,2,Kaos Polos Unisex,Fashion,2,70000,Kartu Kredit,Medan
+447,2024-05-28,2,Kaos Polos Unisex,Fashion,1,70000,E-Wallet,Bandung
+448,2024-06-09,1,Headphone Bluetooth,Elektronik,3,250000,Kartu Kredit,Surabaya
+449,2024-04-12,3,Mouse Wireless,Elektronik,5,120000,Transfer Bank,Yogyakarta
+450,2024-06-30,5,Tas Selempang Canvas,Fashion,2,180000,E-Wallet,Bandung
+451,2024-09-16,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Bandung
+452,2024-04-29,3,Mouse Wireless,Elektronik,5,120000,Kartu Kredit,Jakarta
+453,2024-03-16,3,Mouse Wireless,Elektronik,1,120000,Kartu Kredit,Medan
+454,2024-07-28,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,Transfer Bank,Surabaya
+455,2024-08-24,5,Tas Selempang Canvas,Fashion,4,180000,Kartu Kredit,Bandung
+456,2024-06-06,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Yogyakarta
+457,2024-05-17,3,Mouse Wireless,Elektronik,4,120000,COD,Yogyakarta
+458,2024-04-30,3,Mouse Wireless,Elektronik,1,120000,COD,Bandung
+459,2024-05-07,5,Tas Selempang Canvas,Fashion,5,180000,Kartu Kredit,Bandung
+460,2024-05-07,3,Mouse Wireless,Elektronik,4,120000,E-Wallet,Medan
+461,2024-06-14,1,Headphone Bluetooth,Elektronik,4,250000,E-Wallet,Jakarta
+462,2024-01-28,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,E-Wallet,Yogyakarta
+463,2024-05-05,2,Kaos Polos Unisex,Fashion,4,70000,Kartu Kredit,Surabaya
+464,2024-01-11,5,Tas Selempang Canvas,Fashion,4,180000,COD,Medan
+465,2024-05-22,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,E-Wallet,Yogyakarta
+466,2024-09-19,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Jakarta
+467,2024-01-25,1,Headphone Bluetooth,Elektronik,4,250000,Kartu Kredit,Surabaya
+468,2024-07-31,3,Mouse Wireless,Elektronik,4,120000,E-Wallet,Jakarta
+469,2024-07-02,3,Mouse Wireless,Elektronik,3,120000,Kartu Kredit,Bandung
+470,2024-05-02,4,Botol Minum 1L,Perlengkapan Rumah,4,45000,COD,Surabaya
+471,2024-04-15,3,Mouse Wireless,Elektronik,4,120000,Transfer Bank,Medan
+472,2024-01-29,1,Headphone Bluetooth,Elektronik,4,250000,COD,Bandung
+473,2024-08-23,1,Headphone Bluetooth,Elektronik,1,250000,E-Wallet,Medan
+474,2024-02-28,5,Tas Selempang Canvas,Fashion,2,180000,COD,Bandung
+475,2024-01-19,3,Mouse Wireless,Elektronik,1,120000,COD,Medan
+476,2024-07-02,2,Kaos Polos Unisex,Fashion,4,70000,Kartu Kredit,Medan
+477,2024-08-28,2,Kaos Polos Unisex,Fashion,4,70000,COD,Medan
+478,2024-04-09,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,Kartu Kredit,Bandung
+479,2024-02-29,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,COD,Medan
+480,2024-03-22,1,Headphone Bluetooth,Elektronik,4,250000,COD,Jakarta
+481,2024-04-04,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,COD,Bandung
+482,2024-01-04,2,Kaos Polos Unisex,Fashion,4,70000,Transfer Bank,Surabaya
+483,2024-09-14,5,Tas Selempang Canvas,Fashion,2,180000,Transfer Bank,Jakarta
+484,2024-05-16,2,Kaos Polos Unisex,Fashion,3,70000,Kartu Kredit,Bandung
+485,2024-05-26,5,Tas Selempang Canvas,Fashion,5,180000,E-Wallet,Medan
+486,2024-06-19,2,Kaos Polos Unisex,Fashion,5,70000,E-Wallet,Surabaya
+487,2024-07-18,2,Kaos Polos Unisex,Fashion,2,70000,Transfer Bank,Jakarta
+488,2024-01-04,3,Mouse Wireless,Elektronik,1,120000,E-Wallet,Surabaya
+489,2024-04-14,4,Botol Minum 1L,Perlengkapan Rumah,1,45000,Kartu Kredit,Yogyakarta
+490,2024-05-08,5,Tas Selempang Canvas,Fashion,5,180000,COD,Surabaya
+491,2024-08-20,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,COD,Jakarta
+492,2024-01-06,3,Mouse Wireless,Elektronik,3,120000,E-Wallet,Bandung
+493,2024-02-23,1,Headphone Bluetooth,Elektronik,1,250000,COD,Surabaya
+494,2024-05-23,4,Botol Minum 1L,Perlengkapan Rumah,2,45000,E-Wallet,Bandung
+495,2024-02-10,2,Kaos Polos Unisex,Fashion,5,70000,Transfer Bank,Medan
+496,2024-06-28,5,Tas Selempang Canvas,Fashion,2,180000,Kartu Kredit,Jakarta
+497,2024-01-01,2,Kaos Polos Unisex,Fashion,5,70000,COD,Medan
+498,2024-05-27,3,Mouse Wireless,Elektronik,3,120000,E-Wallet,Yogyakarta
+499,2024-01-31,5,Tas Selempang Canvas,Fashion,2,180000,Kartu Kredit,Bandung
+500,2024-08-09,1,Headphone Bluetooth,Elektronik,3,250000,E-Wallet,Yogyakarta
