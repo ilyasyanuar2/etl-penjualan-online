@@ -1,22 +1,32 @@
 🧩 ETL Pipeline dan Data Warehouse untuk Analisis Penjualan Toko Online
+
 📘 Deskripsi Proyek
 
 Proyek ini merupakan implementasi sederhana dari ETL Pipeline (Extract, Transform, Load) menggunakan Python dan PostgreSQL.
 Tujuannya adalah untuk mengelola data transaksi penjualan toko online, mulai dari proses ekstraksi, pembersihan, hingga pemuatan data ke dalam Data Warehouse (PostgreSQL) agar bisa dianalisis oleh tim Business Intelligence.
 
 🧱 Arsitektur Proyek
+
 [Extract]   → Mengambil data transaksi dari file CSV
+
 [Transform] → Membersihkan data dan menambahkan kolom total_harga
+
 [Load]      → Menyimpan hasil transformasi ke PostgreSQL Data Warehouse
-[Analyze]   → Mengambil data dari PostgreSQL untuk analisis dan visualisasi
+
+[Analyze]   → Mengambil data dari PostgreSQL untuk analisis dan 
+visualisasi
 
 ⚙️ Teknologi yang Digunakan
+
 Komponen	Deskripsi
 Python (Pandas, SQLAlchemy, Matplotlib)	Untuk proses ETL dan visualisasi data
 PostgreSQL	Sebagai Data Warehouse
 pgAdmin / Metabase	Untuk query SQL dan pembuatan dashboard
 Jupyter Notebook (opsional)	Untuk eksplorasi data dan analisis tambahan
+
 📂 Struktur Folder
+
+```plaintext
 etl_penjualan/
 │
 ├── data/
@@ -33,8 +43,11 @@ etl_penjualan/
 │
 ├── requirements.txt                    # Library yang dibutuhkan
 └── README.md                           # Dokumentasi proyek
+```
+
 
 🚀 Langkah Menjalankan Proyek
+
 1️⃣ Clone repository
 git clone https://github.com/username/etl-penjualan-online.git
 cd etl-penjualan-online
@@ -60,6 +73,7 @@ Ganti username/password di file load_data.py sesuai dengan konfigurasi lokal kam
 python scripts/analyze_data.py
 
 📊 Contoh Hasil Analisis
+
 🔹 Total Penjualan per Bulan
 
 Grafik garis menunjukkan tren penjualan tiap bulan.
@@ -108,9 +122,10 @@ Mengintegrasikan API eksternal untuk mendapatkan data penjualan real-time
 
 Proyek ini dibuat sebagai bagian dari portofolio Data Engineer untuk menunjukkan pemahaman terhadap konsep ETL dan Data Warehouse.
 
-📧 Email: [your.email@gmail.com
-]
+📧 Email: [ilyasyanuar2@gmail.com]
+
 🔗 LinkedIn: [linkedin.com/in/yourprofile]
+
 💻 GitHub: [github.com/yourusername]
 
 ✅ Lisensi
