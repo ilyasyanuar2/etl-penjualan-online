@@ -118,6 +118,10 @@ Menambahkan dashboard interaktif menggunakan Metabase / Power BI
 
 Mengintegrasikan API eksternal untuk mendapatkan data penjualan real-time
 
+<img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/772ddab1-cc22-4b40-88b0-07e956788afb" />
+
+
+
 👨‍💻 Tentang Pembuat
 
 Proyek ini dibuat sebagai bagian dari portofolio Data Engineer untuk menunjukkan pemahaman terhadap konsep ETL dan Data Warehouse.
